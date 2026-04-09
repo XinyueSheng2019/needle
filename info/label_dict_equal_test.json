@@ -1,0 +1,31 @@
+{
+"classify":{
+    "Ia":0, 
+    "II":0, 
+    "Stripped Envelope":0, 
+    "Ic":0, 
+    "Interacting SN":0, 
+    "SLSN-I":1, 
+    "TDE":2, 
+    "Non-SN":3, 
+    "Other":4
+},
+"reverse_label":{
+    "0":"SN",
+    "1":"SLSN-I",
+    "2":"TDE",
+    "3":"Non-SN",
+    "4":"Other"
+},
+"label":{
+    "SN":0,
+    "SLSN-I":1,
+    "TDE":2
+},
+"test_num":{
+    "SN":15,
+    "SLSN-I":15,
+    "TDE":15
+}
+}
+

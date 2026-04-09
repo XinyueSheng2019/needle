@@ -1,0 +1,40 @@
+# macOS / editor artifacts
+.DS_Store
+.vscode/
+
+# Python build/cache artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Archives and large binary bundles
+*.zip
+
+# Project-generated data/output directories (root-level)
+/models/
+/NEEDLE_alerts/
+/needle_inputs/
+/new_samples_plots/
+/quality_classification_tf/
+/quality_check_results/
+/touched_2024/
+/untouched_2025/
+/plots/
+
+# Training outputs
+/needle_train/up_*/
+/needle_train/k_fold_*/
+/needle_train/__pycache__/
+
+# Light-curve processing outputs
+/light_curve/photo_processing_output/
+/light_curve/photo_processing_output_new/
+/light_curve/__pycache__/
+
+# Image processing outputs
+/image/__pycache__/
+/image/bad_samples_0430/
+/image/image_preprocessing_output/
+/image/image_unmasked_output/

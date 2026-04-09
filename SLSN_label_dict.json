@@ -1,0 +1,26 @@
+{
+    "classify":{
+        "Ia":0, 
+        "II":0, 
+        "Stripped Envelope":0, 
+        "Ic":0, 
+        "Interacting SN":0, 
+        "SLSN-I":1, 
+        "TDE":0, 
+        "Non-SN":0, 
+        "Other":0
+    },
+    "label":{
+        "Non-SLSN":0,
+        "SLSN-I":1
+    },
+    "test_num":{
+        "SLSN-I":15,
+        "Non-SLSN":500
+    }
+    }
+
+
+
+    
+    

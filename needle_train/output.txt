@@ -1,0 +1,1942 @@
+original class_list:  TDE 77
+TDE 77
+class_type:  TDE valid_list:  20
+TDE valid set saved to k_fold_sets_new/TDE_valid_0.txt
+class_type:  TDE train_list:  57
+TDE train set saved to k_fold_sets_new/TDE_train_0.txt
+original class_list:  SLSN-I 122
+SLSN-I 122
+class_type:  SLSN-I valid_list:  20
+SLSN-I valid set saved to k_fold_sets_new/SLSN-I_valid_0.txt
+class_type:  SLSN-I train_list:  102
+SLSN-I train set saved to k_fold_sets_new/SLSN-I_train_0.txt
+original class_list:  SN 5583
+SN valid set saved to k_fold_sets_new/SN_valid_0.txt
+SN train set saved to k_fold_sets_new/SN_train_0.txt
+image preprocessing ztf_object:  ZTF22aadghqe
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aadghqe
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aadghqe is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22aaahtqz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aaahtqz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aaahtqz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abvpudz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abvpudz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abvpudz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acnbpmd
+Invalid image sample list: ZTF18acnbpmd
+No image data found on ../image/image_preprocessing_output/ZTF18acnbpmd/imgdata.npy
+No image data available
+No data available for ID ZTF18acnbpmd
+image preprocessing ztf_object:  ZTF20abisysx
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abisysx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abisysx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22aadesap
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aadesap
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aadesap is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22aaapbjz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aaapbjz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aaapbjz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abmwftm
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abmwftm
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abmwftm is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aanxhjv
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aanxhjv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aanxhjv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abfcszi
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abfcszi
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abfcszi is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abowque
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abowque
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abowque is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aahmtso
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aahmtso
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aahmtso is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22aaaedas
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aaaedas
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aaaedas is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21acafvhf
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21acafvhf
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21acafvhf is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abjwvae
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abjwvae
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abjwvae is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20achpcvt
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20achpcvt
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20achpcvt is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abqhkjd
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abqhkjd
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abqhkjd is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abzrhgq
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abzrhgq
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abzrhgq is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22aadgefj
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aadgefj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aadgefj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF23aapyidj
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF23aapyidj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF23aapyidj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+needle-th count for TDE: 19
+needle-t count for TDE: 0
+image preprocessing ztf_object:  ZTF23abgzmfs
+Invalid image sample list: ZTF23abgzmfs
+No image data found on ../image/image_preprocessing_output/ZTF23abgzmfs/imgdata.npy
+No image data available
+No data available for ID ZTF23abgzmfs
+image preprocessing ztf_object:  ZTF23aawhcjb
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF23aawhcjb.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF23aawhcjb
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF23aawhcjb is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abzumlr
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abzumlr
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abzumlr is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acapyww
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acapyww
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acapyww is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22abkbmob
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF22abkbmob.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22abkbmob
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22abkbmob is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aanesgt
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aanesgt
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aanesgt is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22aapjqpn
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aapjqpn
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aapjqpn is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF23aaznlgb
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF23aaznlgb.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF23aaznlgb
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF23aaznlgb is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22aaljlzq
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF22aaljlzq.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aaljlzq
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aaljlzq is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22aalzjdc
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF22aalzjdc.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aalzjdc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aalzjdc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20ablkuio
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20ablkuio
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20ablkuio is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aattyuz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aattyuz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aattyuz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22abcvfgs
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22abcvfgs
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22abcvfgs is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaxwpyv
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF21aaxwpyv.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaxwpyv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaxwpyv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abkfshj
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF19abkfshj.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abkfshj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abkfshj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aantokv
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF19aantokv.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aantokv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aantokv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aavrmcg
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18aavrmcg
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18aavrmcg is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF22aadqgoa
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF22aadqgoa.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF22aadqgoa
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF22aadqgoa is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aceqspy
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF20aceqspy.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aceqspy
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aceqspy is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abrqria
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF21abrqria.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abrqria
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abrqria is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+needle-th count for SLSN-I: 8
+needle-t count for SLSN-I: 11
+image preprocessing ztf_object:  ZTF21acguqsc
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21acguqsc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21acguqsc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aabssth
+Invalid image sample list: ZTF18aabssth
+No image data found on ../image/image_preprocessing_output/ZTF18aabssth/imgdata.npy
+No image data available
+No data available for ID ZTF18aabssth
+image preprocessing ztf_object:  ZTF19abhemuy
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abhemuy
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abhemuy is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abvtikp
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abvtikp
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abvtikp is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aapomdb
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aapomdb
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aapomdb is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abasqfx
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF20abasqfx.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abasqfx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abasqfx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaxswlc
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaxswlc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaxswlc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abahsdc
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abahsdc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abahsdc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aanvsds
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aanvsds
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aanvsds is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abwukki
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abwukki
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abwukki is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aawogdl
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aawogdl
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aawogdl is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aazdxlx
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aazdxlx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aazdxlx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19adcbpcj
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19adcbpcj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19adcbpcj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aazewhe
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aazewhe
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aazewhe is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abxzrqw
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abxzrqw
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abxzrqw is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aanxosu
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aanxosu
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aanxosu is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aaekkuv
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aaekkuv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aaekkuv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acbykmk
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acbykmk
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acbykmk is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abpubll
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abpubll
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abpubll is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acykaae
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acykaae
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acykaae is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21acjomly
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21acjomly
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd image preprocessing ztf_object:  ZTF18aazxthg
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18aazxthg
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18aazxthg is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abzoeiw
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abzoeiw
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abzoeiw is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaopqqk
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaopqqk
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaopqqk is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acpfwmm
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acpfwmm
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acpfwmm is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acyybwo
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acyybwo
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acyybwo is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aagofnn
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aagofnn
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aagofnn is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abwycli
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abwycli
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abwycli is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aaivjce
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aaivjce
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aaivjce is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abwwfyo
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abwwfyo
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abwwfyo is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abbthwy
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abbthwy
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abbthwy is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aaegvyd
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18aaegvyd
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18aaegvyd is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aboytyf
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aboytyf
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aboytyf is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acrhrcy
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acrhrcy
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acrhrcy is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abzpvaj
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abzpvaj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abzpvaj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aailqir
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aailqir
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aailqir is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aarbify
+Invalid image sample list: ZTF18aarbify
+No image data found on ../image/image_preprocessing_output/ZTF18aarbify/imgdata.npy
+No image data available
+No data available for ID ZTF18aarbify
+image preprocessing ztf_object:  ZTF19abjozed
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abjozed
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abjozed is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aaleptm
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aaleptm
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aaleptm is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abjacdu
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abjacdu
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abjacdu is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21acqxqds
+Invalid image sample list: ZTF21acqxqds
+No image data found on ../image/image_preprocessing_output/ZTF21acqxqds/imgdata.npy
+No image data available
+No data available for ID ZTF21acqxqds
+image preprocessing ztf_object:  ZTF21acdphro
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21acdphro
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21acdphro is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19actabny
+image preprocessing ztf_object:  ZTF21aaqldsk
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaqldsk
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaqldsk is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aaawbkz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aaawbkz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aaawbkz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abboibr
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abboibr
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abboibr is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abjvzxx
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abjvzxx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abjvzxx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abcrzfz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abcrzfz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abcrzfz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaprddk
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF21aaprddk.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaprddk
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaprddk is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaaadmo
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaaadmo
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaaadmo is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abdlvxh
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abdlvxh
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abdlvxh is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acoykif
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acoykif
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acoykif is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acdkzxk
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acdkzxk
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acdkzxk is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abcqkts
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abcqkts
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abcqkts is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acpsrtc
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acpsrtc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acpsrtc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abmoans
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abmoans
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abmoans is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abidbqp
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abidbqp
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abidbqp is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abqykyd
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abqykyd
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abqykyd is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abjijwk
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abjijwk
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abjijwk is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acyplkt
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acyplkt
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acyplkt is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acnrvfm
+Invalid image sample list: ZTF20acnrvfm
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF20acnrvfm.csv, this object might be hostless.
+No image data found on ../image/image_preprocessing_output/ZTF20acnrvfm/imgdata.npy
+No image data available
+No data available for ID ZTF20acnrvfm
+image preprocessing ztf_object:  ZTF20aadtarr
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aadtarr
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aadtarr is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acusbyf
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acusbyf
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acusbyf is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aawdjlp
+image preprocessing ztf_object:  ZTF19aaywazj
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aaywazj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aaywazj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20achusux
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20achusux
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20achusux is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19adafqoe
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19adafqoe
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19adafqoe is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abmxiuf
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abmxiuf
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abmxiuf is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acrtykk
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acrtykk
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acrtykk is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abxqemv
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abxqemv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abxqemv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acwkwqn
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acwkwqn
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acwkwqn is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaxtctv
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaxtctv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaxtctv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acobxlz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acobxlz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acobxlz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acrheel
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acrheel
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acrheel is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acebweq
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acebweq
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acebweq is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aacnxvc
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aacnxvc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aacnxvc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acpmgdz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acpmgdz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acpmgdz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acjtlxe
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acjtlxe
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acjtlxe is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acwyoxc
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acwyoxc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acwyoxc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abfvhlx
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abfvhlx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abfvhlx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abotdef
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF18abotdef.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abotdef
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abotdef is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aalrksw
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF20aalrksw.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aalrksw
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aalrksw is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18adbmiwf
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18adbmiwf
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18adbmiwf is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abrdnty
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abrdnty
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abrdnty is valid
+#################### lc_data loaded successfully
+image preprocessing ztf_object:  ZTF18aatjlhe
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18aatjlhe
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18aatjlhe is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abahyyj
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abahyyj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abahyyj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaoqvzv
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF21aaoqvzv.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaoqvzv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaoqvzv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aatvdwr
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aatvdwr
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aatvdwr is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aagoeny
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aagoeny
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aagoeny is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abvajfq
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abvajfq
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abvajfq is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aansmsj
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aansmsj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aansmsj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aampyum
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aampyum
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aampyum is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aapeime
+Invalid image sample list: ZTF19aapeime
+No image data found on ../image/image_preprocessing_output/ZTF19aapeime/imgdata.npy
+No image data available
+No data available for ID ZTF19aapeime
+image preprocessing ztf_object:  ZTF18abdkimx
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abdkimx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abdkimx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aclmgzk
+Invalid image sample list: ZTF21aclmgzk
+No image data found on ../image/image_preprocessing_output/ZTF21aclmgzk/imgdata.npy
+No image data available
+No data available for ID ZTF21aclmgzk
+image preprocessing ztf_object:  ZTF20abtctgr
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abtctgr
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abtctgr is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abdkdir
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abdkdir
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abdkdir is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaqftpz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaqftpz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaqftpz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abgprpq
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abgprpq
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abgprpq is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21acjqhou
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21acjqhou
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21acjqhou is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abowpnd
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abowpnd
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abowpnd is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aailltc
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aailltc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aailltc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abvyauy
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abvyauy
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abvyauy is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abyfgri
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abyfgri
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abyfgri is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20ablagfg
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20ablagfg
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20ablagfg is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acukucu
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acukucu
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acukucu is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abangub
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abangub
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abangub is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aazgfkq
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18aazgfkq
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18aazgfkq is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abkdpsy
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abkdpsy
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abkdpsy is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aaxmtxg
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aaxmtxg
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aaxmtxg is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aaqtyku
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aaqtyku
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aaqtyku is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abqgytb
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abqgytb
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abqgytb is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaqprjz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaqprjz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaqprjz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aavhypb
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aavhypb
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aavhypb is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aaqhelq
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aaqhelq
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aaqhelq is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acgpqqr
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acgpqqr
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acgpqqr is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aappehx
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aappehx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aappehx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abskove
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abskove
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abskove is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abpyauz
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF21abpyauz.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abpyauz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abpyauz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acjtpqd
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acjtpqd
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acjtpqd is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abxdnzt
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abxdnzt
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abxdnzt is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aauyhea
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aauyhea
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aauyhea is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aaeszsm
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aaeszsm
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aaeszsm is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abcgnql
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abcgnql
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abcgnql is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abebgfr
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abebgfr
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abebgfr is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acojxtb
+image preprocessing ztf_object:  ZTF20abatdly
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abatdly
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abatdly is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19adcfsad
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19adcfsad
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19adcfsad is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21acqbnkt
+Invalid image sample list: ZTF21acqbnkt
+No image data found on ../image/image_preprocessing_output/ZTF21acqbnkt/imgdata.npy
+No image data available
+No data available for ID ZTF21acqbnkt
+image preprocessing ztf_object:  ZTF20acmafkf
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acmafkf
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acmafkf is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aamiwbp
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF20aamiwbp.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aamiwbp
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aamiwbp is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acbxsgy
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acbxsgy
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acbxsgy is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abjbukd
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abjbukd
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abjbukd is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aaifyab
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF20aaifyab.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aaifyab
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aaifyab is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aaydmkh
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18aaydmkh
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18aaydmkh is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acvwllm
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acvwllm
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acvwllm is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abtsecq
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abtsecq
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abtsecq is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acoyxuv
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acoyxuv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acoyxuv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acvziuf
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acvziuf
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acvziuf is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acihgng
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acihgng
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acihgng is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aawhniz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aawhniz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aawhniz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aagteny
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aagteny
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aagteny is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acpkprl
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acpkprl
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acpkprl is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abouznj
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abouznj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abouznj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaovdlh
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaovdlh
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaovdlh is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aavutkm
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aavutkm
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aavutkm is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18adasisj
+image preprocessing ztf_object:  ZTF18acepwhb
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acepwhb
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acepwhb is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aacsuwx
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aacsuwx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aacsuwx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20abdsunu
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20abdsunu
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20abdsunu is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abvgwvp
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF19abvgwvp.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abvgwvp
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abvgwvp is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aaxkhxw
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aaxkhxw
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aaxkhxw is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aaqcqvr
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18aaqcqvr
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18aaqcqvr is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acrwvao
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acrwvao
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acrwvao is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abulpnc
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abulpnc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abulpnc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20acfvsze
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acfvsze
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acfvsze is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aayddkn
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aayddkn
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aayddkn is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aavaikm
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aavaikm
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aavaikm is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18accrorf
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18accrorf
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18accrorf is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abzsjpn
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abzsjpn
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abzsjpn is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aavzffg
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aavzffg
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aavzffg is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aawupxb
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aawupxb
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aawupxb is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acbiwjk
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acbiwjk
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acbiwjk is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aajxwnz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aajxwnz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aajxwnz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abckujq
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abckujq
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abckujq is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acuybzx
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acuybzx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acuybzx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abegxob
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abegxob
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abegxob is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21acphceb
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18adasisj
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18adasisj is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20acojxtb
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20acojxtb is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+Invalid image sample list: ZTF21acphceb
+No image data found on ../image/image_preprocessing_output/ZTF21acphceb/imgdata.npy
+No image data available
+No data available for ID ZTF21acphceb
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aamhmsx
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF19aamhmsx.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aamhmsx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aamhmsx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aarcypa
+Invalid image sample list: ZTF18aarcypa
+No image data found on ../image/image_preprocessing_output/ZTF18aarcypa/imgdata.npy
+No image data available
+No data available for ID ZTF18aarcypa
+image preprocessing ztf_object:  ZTF19abacxod
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abacxod
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abacxod is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abixauz
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abixauz
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abixauz is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18accbppp
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18accbppp
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18accbppp is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF19actabny.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19actabny
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19actabny is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acyogvo
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acyogvo
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acyogvo is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aamwyzl
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aamwyzl
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aamwyzl is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aakpmoy
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aakpmoy
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aakpmoy is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acaimrb
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acaimrb
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acaimrb is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aaowaxx
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aaowaxx
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aaowaxx is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21abbodnh
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21abbodnh
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21abbodnh is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+is loaded
+Light curve for ZTF21acjomly is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abywcnl
+Host data file not found: /Users/xinyuesheng/Documents/astro_projects/data/host_info_r5_ext/ZTF18abywcnl.csv, this object might be hostless.
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abywcnl
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abywcnl is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aasdibr
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aasdibr
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aasdibr is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abclfee
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abclfee
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abclfee is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aazpaki
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aazpaki
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aazpaki is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aavhyel
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aavhyel
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aavhyel is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abpidqn
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abpidqn
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abpidqn is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aaykjei
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18aaykjei
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18aaykjei is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21acissla
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21acissla
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21acissla is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18abmmdif
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18abmmdif
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18abmmdif is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19aafnecv
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19aafnecv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19aafnecv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acbjddp
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acbjddp
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acbjddp is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aapfpod
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aapfpod
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aapfpod is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aattriw
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aattriw
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aattriw is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abqjypm
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abqjypm
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abqjypm is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aawdjlp
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aawdjlp is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aaycmhl
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aaycmhl
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aaycmhl is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19acwrrvg
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19acwrrvg
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19acwrrvg is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF21aasgffc
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF21aasgffc
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF21aasgffc is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF20aaiahra
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF20aaiahra
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF20aaiahra is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18aavsilo
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18aavsilo
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18aavsilo is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF19abyikbv
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF19abyikbv
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF19abyikbv is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+image preprocessing ztf_object:  ZTF18acaqcdg
+####################### img_data loaded successfully
+light curve upsampling ztf object:  ZTF18acaqcdg
+INFO: Loading the maps from /Users/xinyuesheng/.extinction/maps//maps.yaml
+ -  sfd is loaded
+Light curve for ZTF18acaqcdg is valid
+#################### lc_data loaded successfully
+#################### meta_r, meta_mixed, find_host loaded successfully
+needle-th count for SN: 179
+needle-t count for SN: 12
+data_type:  valid batch_id:  0 imageset.shape:  (206, 60, 60, 2) metaset.shape:  (206, 26) labels.shape:  (206,) idx_set.shape:  (206,)
+Image shape:  (206, 60, 60, 2)
+Meta shape:  (206, 26)
+Label shape:  (206,)
+Saved to k_fold_sets_new/hosted_set/valid_0.hdf5
+data_type:  valid batch_id:  0 imageset.shape:  (23, 60, 60, 2) metaset.shape:  (23, 16) labels.shape:  (23,) idx_set.shape:  (23,)
+Image shape:  (23, 60, 60, 2)
+Meta shape:  (23, 16)
+Label shape:  (23,)
+Saved to k_fold_sets_new/hostless_set/valid_0.hdf5
