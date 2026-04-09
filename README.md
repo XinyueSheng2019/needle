@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Experimental-orange.svg)](#)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--08-lightgrey.svg)](#)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19484687.svg)](https://doi.org/10.5281/zenodo.19484687)
 
 NEEDLE2.0 is a Python workflow for building datasets and training transient-object classifiers with the `needle_train` pipeline.
 
@@ -54,3 +55,5 @@ python needle_train/run_model.py
 ## License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
+
+
