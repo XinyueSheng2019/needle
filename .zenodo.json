@@ -1,0 +1,47 @@
+{
+  "title": "NEEDLE2.0",
+  "description": "NEEDLE2.0 is a data augmentation framework designed to improve machine-learning classification of rare astronomical transients. It extends the NEEDLE pipeline by addressing key challenges in time-domain astronomy, including extreme class imbalance and contamination in host galaxy imaging. The framework combines image- and light-curve–based augmentation strategies. For imaging data, it applies a Similarity Index to remove artifacts and uses masking techniques to eliminate unrelated foreground sources while preserving the transient and its host galaxy. This focuses model attention on relevant features and enables robust geometric augmentations such as rotation for class balancing. For photometric data, NEEDLE2.0 models multi-band light curves using two-dimensional Gaussian Processes. Synthetic samples are generated via resampling and redshifting, and are paired with host galaxy images from the same class to produce realistic, diverse training examples. Applied to the classification of Superluminous Supernovae Type I (SLSNe-I) and Tidal Disruption Events (TDEs), the augmented dataset significantly improves performance. At a confidence threshold of 0.8, models achieve 75% purity and 75% completeness for SLSNe-I, and 43% purity and 66% completeness for TDEs. NEEDLE2.0 is intended for researchers working on time-domain surveys and transient discovery pipelines, particularly in preparation for next-generation facilities with large data volumes and rare-event discovery goals.",
+  "creators": [
+    {
+      "name": "Xinyue Sheng",
+      "affiliation": "Astrophysics Research Centre,Queen's University Belfast"
+    },
+    {
+      "name": "Tuan Dung Pham",
+      "affiliation": "School of Electronics, Electrical Engineering and Computer Science,Queen's University Belfast"
+    },
+    {
+      "name": "Zichi Zhang",
+      "affiliation": "School of Electronics, Electrical Engineering and Computer Science,Queen's University Belfast"
+    },
+    {
+      "name": "Matt Nicholl",
+      "affiliation": "Astrophysics Research Centre,Queen's University Belfast"
+    },
+    {
+      "name": "Thai Son Mai",
+      "affiliation": "School of Electronics, Electrical Engineering and Computer Science,Queen's University Belfast"
+    }
+  ], 
+  "keywords": [
+    "time-domain astronomy",
+    "transient classification",
+    "data augmentation",
+    "machine learning",
+    "superluminous supernovae",
+    "tidal disruption events",
+    "light curves",
+    "Gaussian processes",
+    "astronomical imaging",
+    "class imbalance"
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19484687",
+      "relation": "isVersionOf",
+      "scheme": "doi"
+    }
+  ]
+}
